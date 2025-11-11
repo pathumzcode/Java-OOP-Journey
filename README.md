@@ -1,3 +1,5 @@
+![Cover](https://cdn.codegym.cc/images/article/c7b133e0-8569-47fe-8bba-9aa4d90e9d5b/original.jpg)
+
 # Java-OOP-Journey 🧩
 
 My learning journey through Object-Oriented Programming (OOP) in Java — including notes, code samples, and visual explanations.
