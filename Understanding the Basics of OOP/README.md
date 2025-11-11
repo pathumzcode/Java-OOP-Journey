@@ -90,7 +90,11 @@ A simple way to understand this is with the **house blueprint analogy**: a **cla
 
 The image below illustrates the **Dog class and its objects** in Java:
 
-![Class and Object Example](https://media.geeksforgeeks.org/wp-content/uploads/20250805190315437489/Class_Object_example.webp)
+<p align="center">
+  <img src="https://media.geeksforgeeks.org/wp-content/uploads/20250805190315437489/Class_Object_example.webp" alt="Class and Object Example" width="420"/>
+  <br>
+  <em>Figure: Class and Object Example</em>
+</p>
 
 
 ---
@@ -126,7 +130,13 @@ The image below illustrates the **Dog class and its objects** in Java:
   - The character provides a **getter method** like `getInventory()` to safely retrieve a list of items.  
 - **Purpose:** Ensures data integrity while allowing controlled access to important information.
 
-![Encapsulation](https://miro.medium.com/v2/resize:fit:1100/format:webp/0*UrJgGAitiB3YNPwj.png)
+<p align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*UrJgGAitiB3YNPwj.png" 
+       alt="Encapsulation in Java" 
+       width="420"/>
+  <br>
+  <em>Figure: Encapsulation in Java</em>
+</p>
 
 
 ---
