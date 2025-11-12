@@ -5,7 +5,6 @@ An **object** is an **instance of a class**, and it contains:
 
 - **Attributes (Properties):** Represent the **state** or **data** of the object.  
 - **Methods (Functions):** Represent the **behavior** or **actions** of the object.  
-
 ---
 
 ## 🧱 Example — Car Object
@@ -95,6 +94,12 @@ Use the dot operator (.) to call methods defined in the class.
 objectName.methodName();
 ```
 [![View](https://img.shields.io/badge/View-Attributes%20And%20Classes%20Sample%20Code-blue?style=for-the-badge&logo=java)](AttributesAndClassesSample.java)
+- Output :
+
+<img src="../Images/Attributes%20And%20Classes%20Sample%20Output.png" 
+     alt="Attributes and Classes Sample Output" 
+     width="300">
+
 
 
 
