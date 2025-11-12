@@ -20,7 +20,11 @@ A car can be represented as an object with:
 | `start()` | Starts the car |
 | `stop()` | Stops the car |
 
-![Car Class Example](https://codersite.dev/assets/images/carClass.jpg)
+<!-- Add image after table, small size -->
+<p>
+  <img src="https://codersite.dev/assets/images/carClass.jpg" alt="Car Class Example" width="500"/>
+</p>
+
 
 ---
 
@@ -90,3 +94,6 @@ Use the dot operator (.) to call methods defined in the class.
 ```java
 objectName.methodName();
 ```
+
+[![View](https://img.shields.io/badge/View-Attributes%20And%20Classes%20Sample%20Code-blue?style=for-the-badge&logo=java)](Abstraction%20and%20Constructors/AttributesAndClassesSample.java)
+
