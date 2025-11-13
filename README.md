@@ -13,5 +13,5 @@ My learning journey through Object-Oriented Programming (OOP) in Java — includ
 - Encapsulation
 
 ## 📝 Purpose
-This repository documents my study and practice of Java OOP concepts. It includes structured notes, example code, and diagrams to help myself and others understand OOP clearly.
+This repository documents my study and practice of Java OOP concepts. It includes structured notes, example code, and diagrams to help myself and others understand OOP clearly
 
