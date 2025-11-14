@@ -375,7 +375,7 @@ public DataType getVariableName() {
 }
 ```
 
-[![View](https://img.shields.io/badge/View-Getters%20and%20Setters%20Sample%20Code-blue?style=for-the-badge&logo=java)](GettersSettersSample.java)
+[![View](https://img.shields.io/badge/View-Getters%20and%20Setters%20Sample%20Code-blue?style=for-the-badge&logo=java)](Abstraction and Constructors/SettersAndGettersSampleCode/src)
 
 **Output:**
 
@@ -724,3 +724,4 @@ public class Product {
 <p align="center">
   <strong>Happy Learning! ☕</strong><br>
 </p>
+
