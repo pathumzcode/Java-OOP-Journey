@@ -16,7 +16,6 @@
 - [Getters and Setters](#-getters-and-setters-encapsulation)
 - [Method Overloading](#-method-overloading)
 - [Constructors in Java](#-constructors-in-java)
-- [Summary](#-summary)
 - [References](#-references)
 
 ---
@@ -375,7 +374,7 @@ public DataType getVariableName() {
 }
 ```
 
-[![View](https://img.shields.io/badge/View-Getters%20and%20Setters%20Sample%20Code-blue?style=for-the-badge&logo=java)](Abstraction and Constructors/SettersAndGettersSampleCode/src)
+[![View](https://img.shields.io/badge/View-Getters%20and%20Setters%20Sample%20Code-blue?style=for-the-badge&logo=java)](SettersAndGettersSampleCode/src)
 
 **Output:**
 
@@ -724,4 +723,5 @@ public class Product {
 <p align="center">
   <strong>Happy Learning! ☕</strong><br>
 </p>
+
 
