@@ -1,37 +1,28 @@
-public class Student {
+public class Main {
+    public static void main(String[] args) {
 
-    // Instance variable to store the student's name
-    private String Name;
+        // Create a new Student object called s1
+        // This allows us to access the Student class methods (setters, getters, calcTotalMarks)
+        Student s1 = new Student();
 
-    // Instance variable to store the student's age
-    private int Age;
+        // Calling the calcTotalMarks() method with three subject marks
+        // The method will return the sum of 56, 46, and 87
+        // The returned result is stored inside the variable 'totalMarks'
+        int totalMarks = s1.calcTotalMarks(56, 46, 87);
 
-    // Setter method to assign a value to the Name variable
-    public void setName(String name){
-        this.Name = name;   // 'this' refers to the current object's Name
+        // Set the student's name using the setter method
+        s1.setName("Pathum");
+
+        // Set the student's age using the setter method
+        s1.setAge(21);
+
+        // Print the student's name using the getter method
+        System.out.println("Name : " + s1.getName());
+
+        // Print the student's age using the getter method
+        System.out.println("Age : " + s1.getAge());
+
+        // Print the total marks calculated by calcTotalMarks()
+        System.out.println("Total Marks : " + totalMarks);
     }
-
-    // Setter method to assign a value to the Age variable
-    public void setAge(int age){
-        this.Age = age;     // 'this' refers to the current object's Age
-    }
-
-    // Getter method to return the value of Name
-    public String getName(){
-        return Name;
-    }
-
-    // Getter method to return the value of Age
-    public int getAge(){
-        return Age;
-    }
-
-    public int calcTotalMarks(int m1, int m2){
-        return m1 + m2;
-    }
-
-    public int calcTotalMarks(int m1, int m2, int m3){
-        return m1 + m2 + m3;
-    }
-
 }
