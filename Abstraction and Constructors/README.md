@@ -378,9 +378,9 @@ public DataType getVariableName() {
 
 **Output:**
 
-<img src="../Images/Getters%20And%20Setters%20Sample%20Output.png" 
+<img src="../Images/SettersAndGettersSampleCodeOutout.png" 
      alt="Getters and Setters Sample Output" 
-     width="300">
+     width="200">
 
 ---
 
@@ -723,5 +723,6 @@ public class Product {
 <p align="center">
   <strong>Happy Learning! ☕</strong><br>
 </p>
+
 
 
