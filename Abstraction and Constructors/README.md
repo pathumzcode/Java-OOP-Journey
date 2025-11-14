@@ -491,13 +491,13 @@ public void display(int number) { }
 public void display(int value) { }  // Compilation Error!
 ```
 
-[![View](https://img.shields.io/badge/View-Method%20Overloading%20Sample%20Code-blue?style=for-the-badge&logo=java)](MethodOverloadingSample.java)
+[![View](https://img.shields.io/badge/View-Method%20Overloading%20Sample%20Code-blue?style=for-the-badge&logo=java)](MethodOverLoadSampleCode/src)
 
 **Output:**
 
-<img src="../Images/Method%20Overloading%20Sample%20Output.png" 
+<img src="../Images/MethodOverLoadSampleCode.png" 
      alt="Method Overloading Sample Output" 
-     width="300">
+     width="200">
 
 ---
 
@@ -723,6 +723,7 @@ public class Product {
 <p align="center">
   <strong>Happy Learning! ☕</strong><br>
 </p>
+
 
 
 
