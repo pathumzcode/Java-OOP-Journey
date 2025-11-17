@@ -571,7 +571,7 @@ public class ClassName {
 <img src="../Images/DefaultConstructorsSampleCodeOutput.png" 
      alt="Default Constructors Sample Code Output" 
      width="200">
-
+     
 ---
 ### Parameterized Constructors (Overloaded Constructors)
 
@@ -661,6 +661,14 @@ public class Product {
 - Easier to maintain
 - Ensures consistency
 
+[![View](https://img.shields.io/badge/View-Parameterized%20Constructors%20Sample%20Code-blue?style=for-the-badge&logo=java)](ParameterizedConstructorssampleCode/src)
+
+**Output:**
+
+<img src="../Images/ParameterizedConstructorsSampleCodeOutput.png" 
+     alt="Parameterized Constructors Sample Code Output" 
+     width="200">
+
 ---
 
 ### Important Constructor Rules
@@ -673,14 +681,6 @@ public class Product {
 | **First Statement** | `this()` or `super()` must be first statement if used |
 | **Overloading** | Can have multiple constructors with different parameters |
 | **No Default if Defined** | If you define any constructor, Java won't provide default constructor |
-
-[![View](https://img.shields.io/badge/View-Constructors%20Sample%20Code-blue?style=for-the-badge&logo=java)](ConstructorsSample.java)
-
-**Output:**
-
-<img src="../Images/Constructors%20Sample%20Output.png" 
-     alt="Constructors Sample Output" 
-     width="300">
 
 ---
 
@@ -731,6 +731,7 @@ public class Product {
 <p align="center">
   <strong>Happy Learning! ☕</strong><br>
 </p>
+
 
 
 
