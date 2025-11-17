@@ -563,8 +563,16 @@ public class ClassName {
 }
 ```
 
----
 
+[![View](https://img.shields.io/badge/View-Default%20Constructors%20Sample%20Code-blue?style=for-the-badge&logo=java)](DefaultConstructorsSampleCode/src)
+
+**Output:**
+
+<img src="../Images/DefaultConstructorsSampleCodeOutput.png" 
+     alt="Default Constructors Sample Code Output" 
+     width="200">
+
+---
 ### Parameterized Constructors (Overloaded Constructors)
 
 Overloaded constructors allow a class to have multiple constructors with different parameter lists, providing flexibility in object creation.
@@ -723,6 +731,7 @@ public class Product {
 <p align="center">
   <strong>Happy Learning! ☕</strong><br>
 </p>
+
 
 
 
