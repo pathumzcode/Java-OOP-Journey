@@ -242,6 +242,6 @@ Requirements → Noun-Verb Analysis → CRC Cards → Class Categories → Desig
 ---
 
 <p align="center">
-  <strong>Master OOA to build better software! 🚀</strong><br>
-  <em>Understanding the problem domain is the first step to elegant solutions</em>
+  Happy Learning! ☕
 </p>
+
