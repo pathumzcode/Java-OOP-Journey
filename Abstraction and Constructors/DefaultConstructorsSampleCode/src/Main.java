@@ -1,4 +1,4 @@
-// Main class – program execution starts here
+// Main class
 public class Main {
     public static void main(String[] args) {
 
